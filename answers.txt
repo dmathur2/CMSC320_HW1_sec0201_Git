@@ -1,0 +1,3 @@
+Q1: Why might we consider using Git?
+
+Answer: One reason that we may use Git is that it allows us to track changes in code and allows groups of people to collaborate when working with code. 
